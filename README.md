@@ -9,7 +9,7 @@ Open this link on the handheld, or scan the QR code the warehouse posts:
 
 **<https://github.com/impact-photographics/impact-wms-app/releases/latest/download/impact-wms.apk>**
 
-It always downloads the newest version, currently **0.3.4**.
+It always downloads the newest version, currently **0.3.6**.
 
 ![QR code of the download link](qr-latest.png)
 
@@ -26,6 +26,7 @@ _App not installed_, uninstall the old app first, then install again.
 
 | Version | File |
 | ------- | ---- |
+| 0.3.6 | [impact-wms-0.3.6-debug.apk](https://github.com/impact-photographics/impact-wms-app/raw/main/impact-wms-0.3.6-debug.apk) |
 | 0.3.4 | [impact-wms-0.3.4-debug.apk](https://github.com/impact-photographics/impact-wms-app/raw/main/impact-wms-0.3.4-debug.apk) |
 | 0.2.0 | [impact-wms-0.2.0-debug.apk](https://github.com/impact-photographics/impact-wms-app/raw/main/impact-wms-0.2.0-debug.apk) |
 
